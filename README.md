@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Sahana</h1>
 <br><hr>
-🌱I am currently learning Java, Python, Javascript<br>💭Ask me about C, HTML, CSS<br>📫How to reach me: ssmath312@gmail.com
+🌱I am currently learning Java, Python, Javascript<br>💭Ask me about C, HTML, CSS<br>📫How to reach me: <a href"ssmath312@gmail.com" target="blank"></a>
 
 <hr>
 
