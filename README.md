@@ -9,7 +9,7 @@
 # 🌐 Socials:
 <a href="https://instagram.com/math_sahana" target="blank"><img align="center" src="https://user-images.githubusercontent.com/113685013/210164948-d5893ac7-4daa-4d19-aeda-7ee82778884f.svg" alt="math_sahana" height="120" width="120" /></a>
 <a href="https://www.linkedin.com/in/sahana-s-math-41989223a/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/113685013/210164950-481b81a3-6d95-439c-9de8-faf7b9094437.svg" alt="sahana-s-math" height="120" width="120" /></a>
-<a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" target="blank"><img align="center" src="https://user-images.githubusercontent.com/113685013/210164961-432a6912-d230-42b3-aeff-25c68ba728de.svg" alt="sahana-s-math" height="100" width="100" /></a>
+<a href="mailto:ssmath312@gmail.com" rel="nofollow"><img align="center" src="https://user-images.githubusercontent.com/113685013/210164961-432a6912-d230-42b3-aeff-25c68ba728de.svg" alt="sahana-s-math" height="100" width="100" /></a>
 <a href="https://discord.gg/https://discord.gg/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/113685013/210164942-53745a40-9e2c-4350-b150-22ebbe32cb34.svg" alt="https://discord.gg/" height="120" width="120" /></a>
 <a href="https://twitter.com/sahana_math" target="blank"><img align="center" src="https://user-images.githubusercontent.com/113685013/210165274-94ea073d-5fcc-437d-8480-ccc700863641.svg" alt="sahana_math" height="120" width="120" /></a>
 <br><hr>
